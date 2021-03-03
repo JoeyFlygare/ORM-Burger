@@ -46,3 +46,4 @@ Contact our team at jayfly64@gmail.com for any questions
 
 ## **Visuals**
 ![screenshot](assets/Capture1.PNG)
+![gif](assets/burgergif.gif)
