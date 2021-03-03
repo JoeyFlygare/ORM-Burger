@@ -45,4 +45,4 @@ Joseph Flygare
 Contact our team at jayfly64@gmail.com for any questions 
 
 ## **Visuals**
-![screenshot](public/images/portfolio/screenshot.png)
+![screenshot](assets/Capture1.PNG)
